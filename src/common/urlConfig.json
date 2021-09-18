@@ -1,0 +1,15 @@
+{
+  "getAll": "https://restcountries.eu/rest/v2/all",
+  "getCountryByPartialName": "https://restcountries.eu/rest/v2/name/",
+  "fullCountryNameFlag": "?fullText=true",
+  "getByCapitalName": "https://restcountries.eu/rest/v2/capital/",
+  "getByRegionalBlock": "https://restcountries.eu/rest/v2/regionalbloc/",
+  "stackOverFlowUrl": "https://stackoverflow.com/users/4035082/abhinandan-prasad",
+  "gitHubUrl": "https://github.com/abhinandan887",
+  "linkedinUrl": "https://www.linkedin.com/in/abhinandanprasad/",
+  "hackerrankUrl": "https://www.hackerrank.com/abhinandan8871",
+  "hackerEarthUrl": "https://www.hackerearth.com/@abhinandan8872",
+  "leetCodeURl": "https://leetcode.com/abhinandan387/",
+  "emailId": "abhinandan887@gmail.com",
+  "contactNo": "+91 8093958388"
+}
